@@ -5,7 +5,9 @@
 ### 1. HR Analytics
 
 #### Project Description
+<p align= "justify">
 This project presents a comprehensive HR analytics dashboard built using **Power Query** and **Power Pivot** in Microsoft Excel. The dashboard provides valuable insights into workforce demographics, employee turnover trends, and individual employee profiles to support data-driven human resource decisions.
+</p>
 
 #### Goals
 - Analyze active employee data across company locations, age groups, job levels, and salary ranges.
@@ -24,7 +26,9 @@ This project presents a comprehensive HR analytics dashboard built using **Power
 ### 2. Sales Analytics Project
 
 #### Project Description
+<p align= "justify">
 The Sales Analytics project aims to provide a comprehensive analysis of sales performance, customer behavior, and product distribution over time. By utilizing powerful data processing and visualization tools, the project enables decision-makers to gain actionable insights for strategic business improvements.
+</p>
 
 #### Goals
 The main objective of this project is to analyze and visualize sales data from multiple dimensions, including:
@@ -46,7 +50,9 @@ The main objective of this project is to analyze and visualize sales data from m
 ### 1. HR Analytics
 
 #### Project Description
+<p align= "justify">
 A business intelligence project designed to visualize and analyze HR metrics for better data-driven decisions across recruitment, performance management, training effectiveness, and employee turnover. This HR Analytics project leverages four structured datasets to build an interactive Power BI dashboard that provides a holistic view of the organization's human resources data. The dashboard enables HR teams and decision-makers to monitor key employee metrics, identify areas of improvement, and improve strategic planning through real-time insights.
+</p>
 
 #### Goals
 - Analyze active employee data across company locations, age groups, job levels, and salary ranges.
