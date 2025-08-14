@@ -12,6 +12,9 @@ A business intelligence project designed to visualize and analyze HR metrics for
 This HR Analytics project leverages four structured datasets to build an interactive Power BI dashboard that provides a holistic view of the organization's human resources data. The dashboard enables HR teams and decision-makers to monitor key employee metrics, identify areas of improvement, and improve strategic planning through real-time insights.
 </p>
 
+> **Source**: Project hosted on GitHub  
+> [View Project on GitHub](https://github.com/denindrap23/Dashboard_Development/blob/main/Power-BI/HR_Analytics/HR-Analytics.pbix)
+
 ---
 
 ## Data Source
