@@ -19,7 +19,7 @@ This HR Analytics project leverages four structured datasets to build an interac
 All datasets used in this project are anonymized and synthetically generated for educational and demonstration purposes.
 
 > **Source**: Public sample dataset hosted on GitHub  
-> [View Dataset on GitHub](https://github.com/denindrap23/Power-BI/blob/main/HR-Analytics/dataset)
+> [View Dataset on GitHub](https://github.com/denindrap23/Dashboard_Development/tree/main/Power-BI/HR_Analytics/dataset)
 
 ---
 
@@ -77,7 +77,7 @@ Provides an overview of employee demographics, department structure, and perform
 - Department, Division, Job Title, and PayZone Breakdown
 - Performance Score Overview
 
-<img src="./overview/Summary.png" width="600">
+<img src="./image/Summary.png" width="600">
 
 ---
 
@@ -90,7 +90,7 @@ Visualizes the recruitment funnel and candidate demographics.
 - Education Level Distribution
 - Applicant Detail Table (with filters for salary, experience, etc.)
 
-<img src="./overview/Recruitment.png" width="600">
+<img src="./image/Recruitment.png" width="600">
 
 ---
 
@@ -103,7 +103,7 @@ Analyzes employee engagement, satisfaction, and training success metrics.
 - Training Completion Rate and Program Distribution
 - Training Cost vs Duration Scatter Plot
 
-<img src="./overview/Performance&Training.png" width="600">
+<img src="./image/Performance&Training.png" width="600">
 
 ---
 
@@ -116,7 +116,7 @@ Tracks turnover trends and identifies high-risk segments within the workforce.
 - Turnover by Department and Year
 - Exit Detail Table
 
-<img src="./overview/Turnover.png" width="600">
+<img src="./image/Turnover.png" width="600">
 
 ---
 
