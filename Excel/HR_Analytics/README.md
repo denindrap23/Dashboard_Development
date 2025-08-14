@@ -55,7 +55,7 @@ All data used in this project is based on **sample HR datasets from SAP’s fict
 These datasets simulate realistic employee data for demonstration and learning purposes, including employee demographics, job classifications, salary ranges, and exit details.
 
 > **Source**: Public sample dataset hosted on GitHub  
-> [View Dataset on GitHub](https://github.com/denindrap23/Excel/blob/main/HR%20Analytics/dataset)
+> [View Dataset on GitHub](https://github.com/denindrap23/Dashboard_Development/edit/main/Excel/HR_Analytics/dataset)
 
 ---
 
@@ -79,5 +79,5 @@ These datasets simulate realistic employee data for demonstration and learning p
 
 | Active Employee | Turnover | Personal Data |
 |-----------------|----------|---------------|
-| ![Active](Dashboard%20Preview/active.png) | ![Turnover](Dashboard%20Preview/turnover.png) | ![Personal](Dashboard%20Preview/personal.png) |
+| ![Active](image/active.png) | ![Turnover](image/turnover.png) | ![Personal](image/personal.png) |
 
