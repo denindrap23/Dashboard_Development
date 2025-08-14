@@ -15,13 +15,13 @@ This project presents a comprehensive HR analytics dashboard built using **Power
 - Provide detailed personal employee data for performance assessment and HR strategic planning.
 
 > **Source**: Project hosted on GitHub  
-> [View Project on GitHub](https://github.com/denindrap23/Machine-Learning/edit/main/Investigate-Hotel-Business-using-Data-Visualization)
+> [View Project on GitHub]([https://github.com/denindrap23/Machine-Learning/edit/main/Investigate-Hotel-Business-using-Data-Visualization](https://github.com/denindrap23/Dashboard_Development/tree/main/Excel/HR_Analytics))
 
 #### Dashboard Previews
 
 | Active Employee | Turnover | Personal Data |
 |-----------------|----------|---------------|
-| ![Active](Dashboard%20Preview/active.png) | ![Turnover](Dashboard%20Preview/turnover.png) | ![Personal](Dashboard%20Preview/personal.png) |
+| ![Active](Excel/HR_Analytics/image/active.png) | ![Turnover](Excel/HR_Analytics/image/turnover.png) | ![Personal](Excel/HR_Analytics/image/personal.png) |
 
 ### 2. Sales Analytics Project
 
@@ -37,13 +37,13 @@ The main objective of this project is to analyze and visualize sales data from m
 - **Product Performance**: Sales by product category, sub-category, and individual product, including distribution by sales volume, profit, and quantity
 
 > **Source**: Project hosted on GitHub  
-> [View Project on GitHub](https://github.com/denindrap23/Machine-Learning/edit/main/Investigate-Hotel-Business-using-Data-Visualization)
+> [View Project on GitHub](https://github.com/denindrap23/Dashboard_Development/tree/main/Excel/Sales_Analytics)
 
 #### Dashboard Previews
 
 | Sales Summary | Customer Sales | Product Performance |
 |-----------------|----------|---------------|
-| ![Active](Dashboard%20Preview/active.png) | ![Turnover](Dashboard%20Preview/turnover.png) | ![Personal](Dashboard%20Preview/personal.png) |
+| ![Active](Excel/Sales_Analytics/image/superstore-summary.png) | ![Turnover](Excel/Sales_Analytics/image/superstore-customer.png) | ![Personal](Excel/Sales_Analytics/image/superstore-product.png) |
 
 ## 2. Power BI
 
@@ -60,10 +60,10 @@ A business intelligence project designed to visualize and analyze HR metrics for
 - Provide detailed personal employee data for performance assessment and HR strategic planning.
 
 > **Source**: Project hosted on GitHub  
-> [View Project on GitHub](https://github.com/denindrap23/Machine-Learning/edit/main/Investigate-Hotel-Business-using-Data-Visualization)
+> [View Project on GitHub](https://github.com/denindrap23/Dashboard_Development/tree/main/Power-BI/HR_Analytics)
 
 #### Dashboard Previews
 
 | Summary | Recruitment | Perfomance & Training | Turnover |
 |---------------|---------------|---------------|---------------|
-| ![Summary Dashboard](./HR-Analytics/overview/Summary.png) | ![Recruitment Dashboard](./HR-Analytics/overview/Recruitment.png) | ![Performance & Training Dashboard](./HR-Analytics/overview/Performance&Training.png) | ![Turnover Dashboard](./HR-Analytics/overview/Turnover.png) |
+| ![Summary Dashboard](./Power-BI/HR_Analytics/image/Summary.png) | ![Recruitment Dashboard](./Power-BI/HR_Analytics/image/Recruitment.png) | ![Performance & Training Dashboard](./Power-BI/HR_Analytics/image/Performance&Training.png) | ![Turnover Dashboard](./Power-BI/HR_Analytics/image/Turnover.png) |
