@@ -61,7 +61,3 @@ Presents:
 All data files are simulated and derived from SAP’s demo HR dataset under the **SAP Bicycle Company** structure. The sources were segmented per regional company unit (Acme Western EU SE, Acme LA Corp., Acme NA Corp.).
 
 ---
-
-## Dashboard Preview
-
-You can find screenshots and visual samples under the [`Dashboard Preview`](./Dashboard%20Preview) folder.
