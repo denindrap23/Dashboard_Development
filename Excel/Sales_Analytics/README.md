@@ -4,6 +4,9 @@
 ## Project Description
 The **Sales Analytics** project aims to provide a comprehensive analysis of sales performance, customer behavior, and product distribution over time. By utilizing powerful data processing and visualization tools, the project enables decision-makers to gain actionable insights for strategic business improvements.
 
+> **Source**: Project hosted on GitHub  
+> [View Project on GitHub](https://github.com/denindrap23/Dashboard_Development/edit/main/Excel/Sales_Analytics/superstore.xlsx)
+
 ### Objective
 The main objective of this project is to analyze and visualize sales data from multiple dimensions, including:
 - **Sales Summary**: Overall revenue, profit, and number of orders
@@ -66,7 +69,7 @@ The dataset contains sales transaction records, including:
 - Profit and Quantity Metrics
 
 > **Source**: Public sample dataset hosted on GitHub  
-> [View Dataset on GitHub](https://github.com/denindrap23/Excel/blob/main/Sales%20Analytics/dataset/superstore.csv)
+> [View Dataset on GitHub](https://github.com/denindrap23/Dashboard_Development/edit/main/Excel/Sales_Analytics/superstore.csv)
 
 ---
 
