@@ -2,7 +2,7 @@
 
 ## 1. Excel
 
-### 1. HR Analytics
+### 1.1. HR Analytics
 
 #### Project Description
 <p align= "justify">
@@ -23,7 +23,7 @@ This project presents a comprehensive HR analytics dashboard built using **Power
 |-----------------|----------|---------------|
 | ![Active](Excel/HR_Analytics/image/active.png) | ![Turnover](Excel/HR_Analytics/image/turnover.png) | ![Personal](Excel/HR_Analytics/image/personal.png) |
 
-### 2. Sales Analytics Project
+### 1.2. Sales Analytics Project
 
 #### Project Description
 <p align= "justify">
@@ -47,7 +47,7 @@ The main objective of this project is to analyze and visualize sales data from m
 
 ## 2. Power BI
 
-### 1. HR Analytics
+### 2.1. HR Analytics
 
 #### Project Description
 <p align= "justify">
