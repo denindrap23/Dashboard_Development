@@ -13,7 +13,7 @@ The dataset is composed of structured Excel files used to analyze employee metri
 ## Dataset Files and Descriptions
 
 | File Name                   | Description                                                                 |
-|-----------------------------|------------------------------------------------------------------------ ----|
+|-----------------------------|-----------------------------------------------------------------------------|
 | `Departments.csv`           | Contains department codes used across the organization.                     |
 | `DepartmentTexts.csv`       | Display names and descriptions for department codes.                        |
 | `Divisions.csv`             | Contains division codes mapped to departments.                              |
